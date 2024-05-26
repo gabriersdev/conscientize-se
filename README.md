@@ -1,6 +1,6 @@
 # Conscientize-se
 
-Site de conscientização sobre a utilização de entorpecentes. Feito para a 2ª SAT de Programação WEB. [Acesse o projeto publicado](https://gabrieszin.github.io/conscientize-se/)
+Site de conscientização sobre a utilização de entorpecentes. Feito para a 2ª SAT de Programação WEB. [Acesse o projeto publicado](https://gabriersdev.github.io/conscientize-se/)
 
 ## Recursos utilizados
 
